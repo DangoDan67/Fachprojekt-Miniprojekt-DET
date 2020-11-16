@@ -1,2 +1,2 @@
-# game
- MiniProjekt1
+# Busting Ghosts
+ Miniproject
